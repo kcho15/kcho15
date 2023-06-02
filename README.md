@@ -1,6 +1,6 @@
-### _Hello there_
+# _Hello there_
 
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning how to make games!<br>🏒 Ask me about hockey, anime, and guitar!<br>📫 How to reach me: kevcho604@gmail.com <br>✨ Pronouns: He/Him<br>👩‍🚀 Fun fact: I am a halfway decent carpenter that dreams of going to space 🌌<br>🌊🌲🏔 Born and raised in Vancouver, BC, Canada! 
 
 
